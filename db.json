@@ -1,0 +1,74 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "id": 4,
+      "content": "History",
+      "important": true
+    },
+    {
+      "id": 5,
+      "content": "The most Popularity library is React en web develoment",
+      "important": true
+    },
+    {
+      "id": "50c8",
+      "content": "hyhy",
+      "important": true
+    },
+    {
+      "id": "a71c",
+      "content": "hyhy",
+      "important": false
+    },
+    {
+      "id": "1bcf",
+      "content": "hyhy",
+      "important": false
+    },
+    {
+      "id": "65f1",
+      "content": "hyhy",
+      "important": false
+    },
+    {
+      "id": "14dd",
+      "content": "hyhy",
+      "important": true
+    },
+    {
+      "id": "6379",
+      "content": "hyhy",
+      "important": false
+    },
+    {
+      "id": "b6f4",
+      "content": "123456",
+      "important": true
+    },
+    {
+      "id": "3886",
+      "content": "12",
+      "important": false
+    },
+    {
+      "id": "f451",
+      "content": "2",
+      "important": true
+    }
+  ]
+}
